@@ -1,7 +1,8 @@
 # AI Basics - Climate Data from Berlin Tempelhofer Feld
+## Forecasting with historical weather data
 
 Description following soon...
-
+## How to use the software locally
 1. Clone the repository
 `git clone https://github.com/Till1983/ai-basics-climate-data.git`
 
