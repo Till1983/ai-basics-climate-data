@@ -1,7 +1,7 @@
 # AI Basics - Climate Data from Berlin Tempelhofer Feld
 ## Predicting Soil Temperature with Historical Weather Data
 
-This project uses historical temperature, humidity, and precipitation data from Berlin Tempelhofer Feld to predict soil temperature. Data is sourced from Open Meteo's [historical weather API](https://open-meteo.com/en/docs/historical-weather-api) and covers a period from January 1990 to November 2024. The imported data and data split setup are located in the [data folder](https://github.com/Till1983/ai-basics-climate-data/tree/main/data), while different regression models can be found in the [models folder](https://github.com/Till1983/ai-basics-climate-data/tree/main/models).
+This project uses historical temperature, humidity, and precipitation data from Berlin Tempelhofer Feld to predict soil temperature. Data is sourced from Open Meteo's [historical weather API](https://open-meteo.com/en/docs/historical-weather-api) and covers a period from January 1990 to December 2024. The imported data and data split setup are located in the [data folder](https://github.com/Till1983/ai-basics-climate-data/tree/main/data), while different regression models can be found in the [models folder](https://github.com/Till1983/ai-basics-climate-data/tree/main/models).
 
 ## Running the Software Locally
 ### 1. Clone the Repository
